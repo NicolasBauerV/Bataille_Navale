@@ -1,0 +1,7 @@
+La bataille navale oppose deux joueurs qui s'affrontent. Chacun a une flotte composee de 5 bateaux, qui sont, en general, les suivants : 1 porte-avion (5 cases), 1 croiseur (4 cases), 1 contre-torpilleur (3 cases), 1 sous-marin (3 cases), 1 torpilleur (2 cases).
+Les bateaux ne doivent pas etre colles entre eux. 
+Au debut du jeu, chaque joueur place ses bateaux sur sa grille. 
+Celle-ci est toujours numerotee de 1 à 10 verticalement et de A a J horizontalement. 
+Un a un, les joueurs vont "tirer" sur une case de l'adversaire : par exemple, B.3 ou encore H.8. Le but est donc de couler les bateaux adverses. 
+Au fur et a mesure, il faut mettre les pions sur sa propre grille afin de se souvenir de ses tirs passes.
+Un fonctionnement plus sophistique mettant en oeuvre de la strategie est de tirer une salve (trois coups par exemple) et de donner le resultat global de la salve.
